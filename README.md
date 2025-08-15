@@ -1,2 +1,2 @@
 # git-github-learning
-edits of branch 1
+edits of branch 2
